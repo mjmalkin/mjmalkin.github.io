@@ -15,10 +15,6 @@ hr {
   border-color: #104F85; 
 }
 
-.faded {
-  color: rgba(255, 255, 255, 0.9); 
-}
-
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
@@ -32,15 +28,15 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2.3rem; 
+  font-size: 4.0rem; 
 }
 
 .btn {
   font-family: 'Quicksand', sans-serif;
+  font-size: 24px;
   font-weight: 400;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Quicksand', sans-serif;
 }
 
 .btn-xl {
@@ -57,4 +53,3 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
